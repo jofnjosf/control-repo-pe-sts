@@ -1,2 +1,7 @@
 ---
 message: "This node is using common data"
+pe_r10k::forge_settings:
+  authorization_token: 'Bearer 42606688ab3f4d71aaa36343adeca569a3e530cc988211ea90d7681d29f9a64e'
+  baseurl: 'https://forgeapi.puppet.com'
+puppet_enterprise::master::code_manager::forge_settings:
+  authorization_token: 'Bearer 42606688ab3f4d71aaa36343adeca569a3e530cc988211ea90d7681d29f9a64e'
