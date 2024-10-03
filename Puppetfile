@@ -18,3 +18,6 @@ forge 'https://forge.puppet.com'
 
 
 mod 'puppetlabs-puppet_agent', '4.21.0'
+mod 'puppetlabs-apt', '9.4.0'
+mod 'puppetlabs-inifile', '6.1.1'
+mod 'puppetlabs-stdlib', '9.6.0'
