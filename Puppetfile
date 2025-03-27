@@ -20,7 +20,18 @@ forge 'https://forge.puppet.com'
 mod 'puppetlabs-puppet_agent', '4.21.0'
 mod 'puppetlabs-apt', '9.4.0'
 mod 'puppetlabs-inifile', '6.1.1'
-mod 'puppetlabs-stdlib', '9.6.0'
-mod 'puppet-archive', '7.1.0'
-mod 'puppet-systemd', '6.6.0'
 
+
+mod 'puppet-systemd', '6.6.0'
+mod 'puppetlabs-motd', '7.1.0'
+
+mod 'puppet/archive', '7.1.0'
+mod 'puppetlabs/chocolatey', '8.0.0'
+
+mod 'puppetlabs/ruby_task_helper', '0.6.1'
+mod 'puppetlabs/stdlib', '9.6.0'
+mod 'puppetlabs/powershell', '6.0.0'
+mod 'puppetlabs/registry', '5.0.1'
+
+mod 'puppetlabs-comply', '3.2.0'
+mod 'puppetlabs/pwshlib', '1.1.1'
