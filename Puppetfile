@@ -34,4 +34,4 @@ mod 'puppetlabs/powershell', '6.0.0'
 mod 'puppetlabs/registry', '5.0.1'
 
 mod 'puppetlabs-comply', '3.2.0'
-mod 'puppetlabs/pwshlib', '1.1.1'
+
