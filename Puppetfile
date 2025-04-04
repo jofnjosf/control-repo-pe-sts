@@ -23,7 +23,7 @@ mod 'puppetlabs-inifile', '6.1.1'
 
 
 mod 'puppet-systemd', '6.6.0'
-mod 'puppetlabs-motd', '7.1.0'
+#mod 'puppetlabs-motd', '7.1.0'
 
 mod 'puppet/archive', '7.1.0'
 mod 'puppetlabs/chocolatey', '8.0.0'
