@@ -17,22 +17,5 @@ forge 'https://forge.puppet.com'
 #  branch: 'docs_experiment'
 
 
-mod 'puppetlabs-puppet_agent', '4.21.0'
-mod 'puppetlabs-apt', '9.4.0'
-mod 'puppetlabs-inifile', '6.1.1'
-
-
-mod 'puppet-systemd', '6.6.0'
-#mod 'puppetlabs-motd', '7.1.0'
-
-mod 'puppet/archive', '7.1.0'
-mod 'puppetlabs/chocolatey', '8.0.0'
-
-mod 'puppetlabs/ruby_task_helper', '0.6.1'
-mod 'puppetlabs/stdlib', '9.6.0'
-mod 'puppetlabs/powershell', '6.0.0'
-mod 'puppetlabs/registry', '5.0.1'
-
-
 mod 'puppetlabs-peadm', '3.28.0'
 
