@@ -35,5 +35,5 @@ mod 'puppetlabs/registry', '5.0.1'
 
 mod 'puppetlabs-comply', '3.2.0'
 
-
+mod 'puppetlabs-peadm', '3.28.0'
 
