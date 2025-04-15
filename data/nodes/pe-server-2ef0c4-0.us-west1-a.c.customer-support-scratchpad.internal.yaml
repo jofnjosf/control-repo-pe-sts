@@ -1,2 +1,2 @@
 ---
-puppet_enterprise::profile::database:: 'debug1igufyhvjuyf'
+puppet_enterprise::profile::database::log_min_messages: 'debug1igufyhvjuyf'
